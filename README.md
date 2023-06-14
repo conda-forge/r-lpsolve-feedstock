@@ -8,7 +8,7 @@ About r-lpsolve
 
 Home: https://CRAN.R-project.org/package=lpSolve
 
-Package license: LGPL-2
+Package license: LGPL-2.0-only
 
 Summary: Lp_solve is freely available (under LGPL 2) software for solving linear, integer and mixed integer programs. In this implementation we supply a "wrapper" function in C and some R functions that solve general linear/integer problems, assignment problems, and transportation problems. This version calls lp_solve version 5.5.
 About r-lpsolve
@@ -16,7 +16,7 @@ About r-lpsolve
 
 Home: https://CRAN.R-project.org/package=lpSolve
 
-Package license: LGPL-2
+Package license: LGPL-2.0-only
 
 Summary: Lp_solve is freely available (under LGPL 2) software for solving linear, integer and mixed integer programs. In this implementation we supply a "wrapper" function in C and some R functions that solve general linear/integer problems, assignment problems, and transportation problems. This version calls lp_solve version 5.5.
 
